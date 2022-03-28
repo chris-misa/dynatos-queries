@@ -1,0 +1,4590 @@
+{
+  "queries": [
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 5,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 19698649.548198443,
+          "total_results": 18575
+        }
+      ],
+      "id": 0
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 19698649.548198443,
+          "total_results": 262
+        }
+      ],
+      "id": 212
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 19698649.548198443,
+          "total_results": 24
+        }
+      ],
+      "id": 213
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 19698649.548198443,
+          "total_results": 27
+        }
+      ],
+      "id": 214
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 2,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 19698649.548198443,
+          "total_results": 26307
+        }
+      ],
+      "id": 1
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 19698649.548198443,
+          "total_results": 26307
+        }
+      ],
+      "id": 2
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 3,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 19698649.548198443,
+          "total_results": 26307
+        }
+      ],
+      "id": 3
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 4,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 19698649.548198443,
+          "total_results": 26307
+        }
+      ],
+      "id": 4
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 2,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 19698649.548198443,
+          "total_results": 65493
+        }
+      ],
+      "id": 5
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 2,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 19698649.548198443,
+          "total_results": 65493
+        }
+      ],
+      "id": 6
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 19698649.548198443,
+          "total_results": 65493
+        }
+      ],
+      "id": 7
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 5,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 19698649.548198443,
+          "total_results": 65493
+        }
+      ],
+      "id": 8
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 2,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 19698649.548198443,
+          "total_results": 65493
+        }
+      ],
+      "id": 9
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 4,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 19698649.548198443,
+          "total_results": 65493
+        }
+      ],
+      "id": 10
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 19698649.548198443,
+          "total_results": 28082
+        }
+      ],
+      "id": 215
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 19698649.548198443,
+          "total_results": 114
+        }
+      ],
+      "id": 216
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 19698649.548198443,
+          "total_results": 4734
+        }
+      ],
+      "id": 217
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 19698649.548198443,
+          "total_results": 13214
+        }
+      ],
+      "id": 218
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 3568686.0714285718,
+          "total_results": 5157
+        }
+      ],
+      "id": 219
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 11633667.809813507,
+          "total_results": 1578
+        }
+      ],
+      "id": 220
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 11633667.809813507,
+          "total_results": 9063
+        }
+      ],
+      "id": 221
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 1.5,
+          "total_results": 12
+        }
+      ],
+      "id": 222
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 5,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 5816834.6549067535,
+          "total_results": 58777
+        }
+      ],
+      "id": 11
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 2,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 5816834.6549067535,
+          "total_results": 58777
+        }
+      ],
+      "id": 12
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 5816834.6549067535,
+          "total_results": 58777
+        }
+      ],
+      "id": 13
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 5816834.6549067535,
+          "total_results": 21929
+        }
+      ],
+      "id": 223
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 5816834.6549067535,
+          "total_results": 2418
+        }
+      ],
+      "id": 224
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 5816834.6549067535,
+          "total_results": 13730
+        }
+      ],
+      "id": 225
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 5816834.6549067535,
+          "total_results": 26941
+        }
+      ],
+      "id": 226
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 5816834.6549067535,
+          "total_results": 21929
+        }
+      ],
+      "id": 227
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 5816834.6549067535,
+          "total_results": 21929
+        }
+      ],
+      "id": 228
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 5816834.6549067535,
+          "total_results": 2418
+        }
+      ],
+      "id": 229
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 31770.014880952382,
+          "total_results": 602
+        }
+      ],
+      "id": 230
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 2512
+        }
+      ],
+      "id": 231
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 1040
+        }
+      ],
+      "id": 232
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 3,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 3789
+        }
+      ],
+      "id": 14
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 373
+        }
+      ],
+      "id": 233
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 133
+        }
+      ],
+      "id": 234
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 711
+        }
+      ],
+      "id": 235
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 373
+        }
+      ],
+      "id": 236
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 133
+        }
+      ],
+      "id": 237
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 4,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 12360
+        }
+      ],
+      "id": 15
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 2,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 12360
+        }
+      ],
+      "id": 16
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 3,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 12360
+        }
+      ],
+      "id": 17
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 4,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 37005
+        }
+      ],
+      "id": 18
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 4,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 37005
+        }
+      ],
+      "id": 19
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 5,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 37005
+        }
+      ],
+      "id": 20
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 4,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 37005
+        }
+      ],
+      "id": 21
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 6583
+        }
+      ],
+      "id": 238
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 8560
+        }
+      ],
+      "id": 239
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 644
+        }
+      ],
+      "id": 240
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 6228
+        }
+      ],
+      "id": 241
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 644
+        }
+      ],
+      "id": 242
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 28
+        }
+      ],
+      "id": 243
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 63
+        }
+      ],
+      "id": 244
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 209
+        }
+      ],
+      "id": 245
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 30
+        }
+      ],
+      "id": 246
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 138
+        }
+      ],
+      "id": 247
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 2
+        }
+      ],
+      "id": 248
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 30
+        }
+      ],
+      "id": 249
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 2,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 9684
+        }
+      ],
+      "id": 22
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 9684
+        }
+      ],
+      "id": 23
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 9684
+        }
+      ],
+      "id": 24
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 4,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 9684
+        }
+      ],
+      "id": 25
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 9684
+        }
+      ],
+      "id": 26
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 32474
+        }
+      ],
+      "id": 27
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 3,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 32474
+        }
+      ],
+      "id": 28
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 5,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 32474
+        }
+      ],
+      "id": 29
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 4,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 32474
+        }
+      ],
+      "id": 30
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 32474
+        }
+      ],
+      "id": 31
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 7329
+        }
+      ],
+      "id": 250
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 871
+        }
+      ],
+      "id": 251
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 9201
+        }
+      ],
+      "id": 252
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 3284
+        }
+      ],
+      "id": 253
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 257
+        }
+      ],
+      "id": 254
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 7329
+        }
+      ],
+      "id": 255
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 871
+        }
+      ],
+      "id": 256
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 7329
+        }
+      ],
+      "id": 257
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 871
+        }
+      ],
+      "id": 258
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 3,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 39493
+        }
+      ],
+      "id": 32
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 4,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 39493
+        }
+      ],
+      "id": 33
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 4,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 39493
+        }
+      ],
+      "id": 34
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 2,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 39493
+        }
+      ],
+      "id": 35
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 2,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 39493
+        }
+      ],
+      "id": 36
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 24989
+        }
+      ],
+      "id": 259
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 24989
+        }
+      ],
+      "id": 260
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 11873
+        }
+      ],
+      "id": 37
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 1463
+        }
+      ],
+      "id": 261
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 4051
+        }
+      ],
+      "id": 262
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 3733
+        }
+      ],
+      "id": 263
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 5,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 10763
+        }
+      ],
+      "id": 38
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 2,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2924302.3348938529,
+          "total_results": 10763
+        }
+      ],
+      "id": 39
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 9162696.4657738097,
+          "total_results": 112
+        }
+      ],
+      "id": 264
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 5,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 6043499.4003338311,
+          "total_results": 19762
+        }
+      ],
+      "id": 40
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 5,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 6043499.4003338311,
+          "total_results": 19762
+        }
+      ],
+      "id": 41
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 2026305.1071428568,
+          "total_results": 176
+        }
+      ],
+      "id": 265
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 4034902.2537383437,
+          "total_results": 177
+        }
+      ],
+      "id": 266
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 1131956172.5102041,
+          "total_results": 80
+        }
+      ],
+      "id": 267
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 2,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 42167
+        }
+      ],
+      "id": 42
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 42167
+        }
+      ],
+      "id": 43
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 4,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 42167
+        }
+      ],
+      "id": 44
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 42167
+        }
+      ],
+      "id": 45
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 42167
+        }
+      ],
+      "id": 46
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 4196
+        }
+      ],
+      "id": 268
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 1231
+        }
+      ],
+      "id": 269
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 14162
+        }
+      ],
+      "id": 270
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 7519
+        }
+      ],
+      "id": 271
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 12103
+        }
+      ],
+      "id": 272
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 13576
+        }
+      ],
+      "id": 47
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 2548
+        }
+      ],
+      "id": 273
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 6076
+        }
+      ],
+      "id": 274
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 1492
+        }
+      ],
+      "id": 275
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 119
+        }
+      ],
+      "id": 276
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 5709
+        }
+      ],
+      "id": 277
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 225
+        }
+      ],
+      "id": 278
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 1492
+        }
+      ],
+      "id": 279
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 5,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 19563
+        }
+      ],
+      "id": 48
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 2,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 19563
+        }
+      ],
+      "id": 49
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 3,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 19563
+        }
+      ],
+      "id": 50
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 188
+        }
+      ],
+      "id": 280
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 4,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 21486
+        }
+      ],
+      "id": 51
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 2,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 21486
+        }
+      ],
+      "id": 52
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 3,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 21486
+        }
+      ],
+      "id": 53
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 4,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 21486
+        }
+      ],
+      "id": 54
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 21486
+        }
+      ],
+      "id": 55
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 4988
+        }
+      ],
+      "id": 281
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 175
+        }
+      ],
+      "id": 282
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 6544
+        }
+      ],
+      "id": 283
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 4988
+        }
+      ],
+      "id": 284
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 175
+        }
+      ],
+      "id": 285
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 2,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 69526
+        }
+      ],
+      "id": 56
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 4,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 69526
+        }
+      ],
+      "id": 57
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 3,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 69526
+        }
+      ],
+      "id": 58
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 4,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 69526
+        }
+      ],
+      "id": 59
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 2,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 69526
+        }
+      ],
+      "id": 60
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 5,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 69526
+        }
+      ],
+      "id": 61
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 262
+        }
+      ],
+      "id": 286
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 10
+        }
+      ],
+      "id": 287
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 26787
+        }
+      ],
+      "id": 288
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 964
+        }
+      ],
+      "id": 289
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 24555
+        }
+      ],
+      "id": 290
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 23468
+        }
+      ],
+      "id": 291
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 964
+        }
+      ],
+      "id": 292
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 262
+        }
+      ],
+      "id": 293
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 10
+        }
+      ],
+      "id": 294
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 1404
+        }
+      ],
+      "id": 295
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 528
+        }
+      ],
+      "id": 296
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 2
+        }
+      ],
+      "id": 297
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 5,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 38853
+        }
+      ],
+      "id": 62
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 4,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 38853
+        }
+      ],
+      "id": 63
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 3,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 38853
+        }
+      ],
+      "id": 64
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 16738
+        }
+      ],
+      "id": 298
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 5036
+        }
+      ],
+      "id": 299
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 8443
+        }
+      ],
+      "id": 300
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 16738
+        }
+      ],
+      "id": 301
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 5036
+        }
+      ],
+      "id": 302
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 8443
+        }
+      ],
+      "id": 303
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 3,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 6178
+        }
+      ],
+      "id": 70
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 2,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 6178
+        }
+      ],
+      "id": 71
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 5,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 6178
+        }
+      ],
+      "id": 72
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 5,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 6178
+        }
+      ],
+      "id": 73
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 3,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 68651
+        }
+      ],
+      "id": 74
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 2,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 68651
+        }
+      ],
+      "id": 75
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 9290
+        }
+      ],
+      "id": 304
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 9290
+        }
+      ],
+      "id": 305
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 9374
+        }
+      ],
+      "id": 306
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 13251
+        }
+      ],
+      "id": 307
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 14761
+        }
+      ],
+      "id": 308
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 29057
+        }
+      ],
+      "id": 309
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 4683
+        }
+      ],
+      "id": 310
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 5855
+        }
+      ],
+      "id": 311
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 4097
+        }
+      ],
+      "id": 312
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 507
+        }
+      ],
+      "id": 313
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 2,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 37190
+        }
+      ],
+      "id": 76
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 5,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 37190
+        }
+      ],
+      "id": 77
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 18592
+        }
+      ],
+      "id": 314
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 5,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 13312
+        }
+      ],
+      "id": 78
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 1005
+        }
+      ],
+      "id": 315
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 2151
+        }
+      ],
+      "id": 316
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 18887
+        }
+      ],
+      "id": 79
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 4,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 18887
+        }
+      ],
+      "id": 80
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 4,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 18887
+        }
+      ],
+      "id": 81
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 5,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 18887
+        }
+      ],
+      "id": 82
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 6481
+        }
+      ],
+      "id": 317
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 4915
+        }
+      ],
+      "id": 318
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 415
+        }
+      ],
+      "id": 319
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 1268
+        }
+      ],
+      "id": 320
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 1268
+        }
+      ],
+      "id": 321
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 24
+        }
+      ],
+      "id": 322
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 965
+        }
+      ],
+      "id": 323
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 1386
+        }
+      ],
+      "id": 324
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 495
+        }
+      ],
+      "id": 325
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 3904
+        }
+      ],
+      "id": 326
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 1528
+        }
+      ],
+      "id": 327
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 346
+        }
+      ],
+      "id": 328
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 3,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 19261
+        }
+      ],
+      "id": 83
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 5,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 19261
+        }
+      ],
+      "id": 84
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 3,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 19261
+        }
+      ],
+      "id": 85
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 3,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 11068
+        }
+      ],
+      "id": 86
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 567995537.38197124,
+          "total_results": 38
+        }
+      ],
+      "id": 329
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 834.45535714285711,
+          "total_results": 16
+        }
+      ],
+      "id": 330
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 283998185.91866422,
+          "total_results": 281
+        }
+      ],
+      "id": 331
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 283998185.91866422,
+          "total_results": 145
+        }
+      ],
+      "id": 332
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 211627914.65625006,
+          "total_results": 41
+        }
+      ],
+      "id": 333
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 5,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 247813050.28745714,
+          "total_results": 49447
+        }
+      ],
+      "id": 87
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 4,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 247813050.28745714,
+          "total_results": 49447
+        }
+      ],
+      "id": 88
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 5,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 247813050.28745714,
+          "total_results": 49447
+        }
+      ],
+      "id": 89
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 2,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 247813050.28745714,
+          "total_results": 49447
+        }
+      ],
+      "id": 90
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 247813050.28745714,
+          "total_results": 49447
+        }
+      ],
+      "id": 91
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 5,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 247813050.28745714,
+          "total_results": 49447
+        }
+      ],
+      "id": 92
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 247813050.28745714,
+          "total_results": 19694
+        }
+      ],
+      "id": 334
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 247813050.28745714,
+          "total_results": 8534
+        }
+      ],
+      "id": 335
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 247813050.28745714,
+          "total_results": 77627
+        }
+      ],
+      "id": 93
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 247813050.28745714,
+          "total_results": 77627
+        }
+      ],
+      "id": 94
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 247813050.28745714,
+          "total_results": 77627
+        }
+      ],
+      "id": 95
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 247813050.28745714,
+          "total_results": 44512
+        }
+      ],
+      "id": 336
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 247813050.28745714,
+          "total_results": 10247
+        }
+      ],
+      "id": 337
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 247813050.28745714,
+          "total_results": 796
+        }
+      ],
+      "id": 338
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 247813050.28745714,
+          "total_results": 2900
+        }
+      ],
+      "id": 339
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 144237.32589285716,
+          "total_results": 172
+        }
+      ],
+      "id": 340
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 26042
+        }
+      ],
+      "id": 341
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 3015
+        }
+      ],
+      "id": 342
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 181
+        }
+      ],
+      "id": 343
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 5,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 48126
+        }
+      ],
+      "id": 96
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 3,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 48126
+        }
+      ],
+      "id": 97
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 2,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 48126
+        }
+      ],
+      "id": 98
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 5,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 48126
+        }
+      ],
+      "id": 99
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 8502
+        }
+      ],
+      "id": 344
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 28134
+        }
+      ],
+      "id": 345
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 5,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 53192
+        }
+      ],
+      "id": 100
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 53192
+        }
+      ],
+      "id": 101
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 8851
+        }
+      ],
+      "id": 346
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 23993
+        }
+      ],
+      "id": 347
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 5776
+        }
+      ],
+      "id": 348
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 2525
+        }
+      ],
+      "id": 349
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 2845
+        }
+      ],
+      "id": 350
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 12252
+        }
+      ],
+      "id": 351
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 2525
+        }
+      ],
+      "id": 352
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 2845
+        }
+      ],
+      "id": 353
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 3219
+        }
+      ],
+      "id": 354
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 4,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 33853
+        }
+      ],
+      "id": 102
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 4,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 33853
+        }
+      ],
+      "id": 103
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 25803
+        }
+      ],
+      "id": 355
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 3,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 17870
+        }
+      ],
+      "id": 104
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 6917
+        }
+      ],
+      "id": 356
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 5934
+        }
+      ],
+      "id": 357
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 3230
+        }
+      ],
+      "id": 358
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 712
+        }
+      ],
+      "id": 359
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 3,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 49819
+        }
+      ],
+      "id": 105
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 49819
+        }
+      ],
+      "id": 106
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 4,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 49819
+        }
+      ],
+      "id": 107
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 3,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 49819
+        }
+      ],
+      "id": 108
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 4,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 49819
+        }
+      ],
+      "id": 109
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 19860
+        }
+      ],
+      "id": 360
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 9213
+        }
+      ],
+      "id": 361
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 2,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 23756
+        }
+      ],
+      "id": 110
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 1428
+        }
+      ],
+      "id": 362
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 12209
+        }
+      ],
+      "id": 363
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 12788
+        }
+      ],
+      "id": 364
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 2029
+        }
+      ],
+      "id": 365
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 81
+        }
+      ],
+      "id": 366
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 81
+        }
+      ],
+      "id": 367
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 1494
+        }
+      ],
+      "id": 368
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 100.0,
+      "target_num_epochs": 5,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 19823
+        }
+      ],
+      "id": 111
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 220
+        }
+      ],
+      "id": 369
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 123978643.806675,
+          "total_results": 192
+        }
+      ],
+      "id": 370
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 17851128.863095239,
+          "total_results": 103
+        }
+      ],
+      "id": 371
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 70914886.33488512,
+          "total_results": 340
+        }
+      ],
+      "id": 372
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 70914886.33488512,
+          "total_results": 19
+        }
+      ],
+      "id": 373
+    },
+    {
+      "num_epochs": 1,
+      "aggregate_standard_error": 0.0,
+      "sigma": 50.0,
+      "target_num_epochs": 1,
+      "epoch_metadata": [
+        {
+          "num_subepochs": 8,
+          "sample_variance": 70914886.33488512,
+          "total_results": 17
+        }
+      ],
+      "id": 374
+    }
+  ],
+  "switch_module": {
+    "status": "ok",
+    "num_epochs": 40,
+    "epochs": [
+      {
+        "results": 18575,
+        "latency_install_total": 0.00081608837499999999,
+        "latency_install_backend1": 1.8535000000000001e-6,
+        "latency_install_backend2": 0.00044883775000000004,
+        "latency_remove_total": 0.014673404750000001,
+        "latency_remove_backend1": 2.067625e-6,
+        "latency_remove_backend2": 0.014282379250000001,
+        "latency_result_delivery": 0.025921036000000001,
+        "num_filter_groups": 1,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 1,
+        "num_slices": 1,
+        "epoch_start": 11757139.310418757,
+        "got_schedule": 11757139.312866418,
+        "executed_subepochs": 11757144.120335862,
+        "epoch_result_process": 11757144.168018201,
+        "executed_schedule": 11757144.197008448
+      },
+      {
+        "results": 313,
+        "latency_install_total": 0.00090455687500000002,
+        "latency_install_backend1": 2.1231250000000001e-6,
+        "latency_install_backend2": 0.00051237237500000011,
+        "latency_remove_total": 0.015806161374999999,
+        "latency_remove_backend1": 2.5656250000000005e-6,
+        "latency_remove_backend2": 0.015387319124999998,
+        "latency_result_delivery": 0.0069457599999999996,
+        "num_filter_groups": 3,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 3,
+        "num_slices": 3,
+        "epoch_start": 11757144.197120437,
+        "got_schedule": 11757144.201205175,
+        "executed_subepochs": 11757148.896847667,
+        "epoch_result_process": 11757148.899053302,
+        "executed_schedule": 11757148.906470219
+      },
+      {
+        "results": 26307,
+        "latency_install_total": 0.000848371,
+        "latency_install_backend1": 1.8606250000000003e-6,
+        "latency_install_backend2": 0.000459455,
+        "latency_remove_total": 0.014683407625,
+        "latency_remove_backend1": 2.1374999999999999e-6,
+        "latency_remove_backend2": 0.014288812625000001,
+        "latency_result_delivery": 0.052184362999999998,
+        "num_filter_groups": 1,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 4,
+        "num_slices": 4,
+        "epoch_start": 11757148.906620374,
+        "got_schedule": 11757148.909513012,
+        "executed_subepochs": 11757153.761137862,
+        "epoch_result_process": 11757153.815342311,
+        "executed_schedule": 11757153.875290014
+      },
+      {
+        "results": 65493,
+        "latency_install_total": 0.009382645375,
+        "latency_install_backend1": 3.2290124999999999e-5,
+        "latency_install_backend2": 0.0045013502499999993,
+        "latency_remove_total": 0.017335979124999998,
+        "latency_remove_backend1": 4.2278124999999999e-5,
+        "latency_remove_backend2": 0.015392336749999999,
+        "latency_result_delivery": 0.11719642200000001,
+        "num_filter_groups": 928,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 14,
+        "num_slices": 14,
+        "epoch_start": 11757153.875389082,
+        "got_schedule": 11757153.897069259,
+        "executed_subepochs": 11757158.638304388,
+        "epoch_result_process": 11757158.849442879,
+        "executed_schedule": 11757158.988651359
+      },
+      {
+        "results": 58777,
+        "latency_install_total": 0.0048012373749999997,
+        "latency_install_backend1": 2.8809624999999998e-5,
+        "latency_install_backend2": 0.0032591303749999996,
+        "latency_remove_total": 0.016442841,
+        "latency_remove_backend1": 3.2560624999999996e-5,
+        "latency_remove_backend2": 0.014960852,
+        "latency_result_delivery": 0.093025528999999996,
+        "num_filter_groups": 594,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 13,
+        "num_slices": 13,
+        "epoch_start": 11757158.988831531,
+        "got_schedule": 11757158.998496961,
+        "executed_subepochs": 11757163.397028295,
+        "epoch_result_process": 11757163.531965269,
+        "executed_schedule": 11757163.641488792
+      },
+      {
+        "results": 3789,
+        "latency_install_total": 0.001055667375,
+        "latency_install_backend1": 8.6232499999999991e-6,
+        "latency_install_backend2": 0.00056457100000000004,
+        "latency_remove_total": 0.014689936125000001,
+        "latency_remove_backend1": 1.242e-5,
+        "latency_remove_backend2": 0.0142407365,
+        "latency_result_delivery": 0.023130554000000001,
+        "num_filter_groups": 25,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 6,
+        "num_slices": 6,
+        "epoch_start": 11757163.641684702,
+        "got_schedule": 11757163.643889332,
+        "executed_subepochs": 11757168.091872724,
+        "epoch_result_process": 11757168.107805518,
+        "executed_schedule": 11757168.133464506
+      },
+      {
+        "results": 12360,
+        "latency_install_total": 0.00081017874999999998,
+        "latency_install_backend1": 2.0071250000000003e-6,
+        "latency_install_backend2": 0.00042802599999999997,
+        "latency_remove_total": 0.015593913625000001,
+        "latency_remove_backend1": 2.23875e-6,
+        "latency_remove_backend2": 0.015206768625,
+        "latency_result_delivery": 0.034741592000000002,
+        "num_filter_groups": 1,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 3,
+        "num_slices": 3,
+        "epoch_start": 11757168.133682035,
+        "got_schedule": 11757168.136339895,
+        "executed_subepochs": 11757172.918129869,
+        "epoch_result_process": 11757172.95936908,
+        "executed_schedule": 11757172.997730289
+      },
+      {
+        "results": 37005,
+        "latency_install_total": 0.0041686294999999998,
+        "latency_install_backend1": 1.7530125000000002e-5,
+        "latency_install_backend2": 0.0022298943749999999,
+        "latency_remove_total": 0.015793571499999999,
+        "latency_remove_backend1": 2.3907499999999998e-5,
+        "latency_remove_backend2": 0.014737704875,
+        "latency_result_delivery": 0.097612386999999995,
+        "num_filter_groups": 396,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 9,
+        "num_slices": 9,
+        "epoch_start": 11757172.997855389,
+        "got_schedule": 11757173.007969722,
+        "executed_subepochs": 11757177.761104131,
+        "epoch_result_process": 11757177.873044876,
+        "executed_schedule": 11757177.987786237
+      },
+      {
+        "results": 377,
+        "latency_install_total": 0.00094020750000000015,
+        "latency_install_backend1": 2.1758749999999997e-6,
+        "latency_install_backend2": 0.00053449837500000002,
+        "latency_remove_total": 0.013884210624999999,
+        "latency_remove_backend1": 1.3230000000000002e-5,
+        "latency_remove_backend2": 0.013454198875000002,
+        "latency_result_delivery": 0.010687538000000002,
+        "num_filter_groups": 6,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 7,
+        "num_slices": 7,
+        "epoch_start": 11757177.987999706,
+        "got_schedule": 11757177.991917849,
+        "executed_subepochs": 11757182.497163158,
+        "epoch_result_process": 11757182.498937039,
+        "executed_schedule": 11757182.510051601
+      },
+      {
+        "results": 9684,
+        "latency_install_total": 0.00082887525000000005,
+        "latency_install_backend1": 2.1211250000000004e-6,
+        "latency_install_backend2": 0.00047124837500000003,
+        "latency_remove_total": 0.014663508625,
+        "latency_remove_backend1": 2.23375e-6,
+        "latency_remove_backend2": 0.014284996000000001,
+        "latency_result_delivery": 0.046772093000000001,
+        "num_filter_groups": 1,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 5,
+        "num_slices": 5,
+        "epoch_start": 11757182.510285059,
+        "got_schedule": 11757182.513280464,
+        "executed_subepochs": 11757187.319783852,
+        "epoch_result_process": 11757187.354390321,
+        "executed_schedule": 11757187.412488433
+      },
+      {
+        "results": 32474,
+        "latency_install_total": 0.0034627512500000003,
+        "latency_install_backend1": 1.5638249999999999e-5,
+        "latency_install_backend2": 0.0018139429999999999,
+        "latency_remove_total": 0.015495446874999999,
+        "latency_remove_backend1": 1.8646249999999998e-5,
+        "latency_remove_backend2": 0.014553649625,
+        "latency_result_delivery": 0.17108078200000001,
+        "num_filter_groups": 264,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 14,
+        "num_slices": 14,
+        "epoch_start": 11757187.412766295,
+        "got_schedule": 11757187.426842518,
+        "executed_subepochs": 11757192.163201209,
+        "epoch_result_process": 11757192.393866355,
+        "executed_schedule": 11757192.614905052
+      },
+      {
+        "results": 39493,
+        "latency_install_total": 0.001237365125,
+        "latency_install_backend1": 2.9912499999999999e-6,
+        "latency_install_backend2": 0.000522460375,
+        "latency_remove_total": 0.015597880750000001,
+        "latency_remove_backend1": 2.9272500000000002e-6,
+        "latency_remove_backend2": 0.014647270875,
+        "latency_result_delivery": 0.11452747599999999,
+        "num_filter_groups": 13,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 7,
+        "num_slices": 7,
+        "epoch_start": 11757192.61518286,
+        "got_schedule": 11757192.618240185,
+        "executed_subepochs": 11757196.999351718,
+        "epoch_result_process": 11757197.186436722,
+        "executed_schedule": 11757197.328364775
+      },
+      {
+        "results": 11873,
+        "latency_install_total": 0.0026361878750000003,
+        "latency_install_backend1": 1.73415e-5,
+        "latency_install_backend2": 0.0015235246249999999,
+        "latency_remove_total": 0.01532993325,
+        "latency_remove_backend1": 1.7705875000000001e-5,
+        "latency_remove_backend2": 0.01415668825,
+        "latency_result_delivery": 0.043167837000000001,
+        "num_filter_groups": 288,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 4,
+        "num_slices": 4,
+        "epoch_start": 11757197.328532966,
+        "got_schedule": 11757197.334874615,
+        "executed_subepochs": 11757201.696667027,
+        "epoch_result_process": 11757201.737574583,
+        "executed_schedule": 11757201.788413256
+      },
+      {
+        "results": 10763,
+        "latency_install_total": 0.0012077593750000001,
+        "latency_install_backend1": 2.6802499999999999e-6,
+        "latency_install_backend2": 0.00052590275000000001,
+        "latency_remove_total": 0.014750960500000002,
+        "latency_remove_backend1": 2.8024999999999998e-6,
+        "latency_remove_backend2": 0.014347827375,
+        "latency_result_delivery": 0.031624672999999999,
+        "num_filter_groups": 11,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 3,
+        "num_slices": 3,
+        "epoch_start": 11757201.788580772,
+        "got_schedule": 11757201.792378202,
+        "executed_subepochs": 11757206.513639698,
+        "epoch_result_process": 11757206.569820572,
+        "executed_schedule": 11757206.605681332
+      },
+      {
+        "results": 19762,
+        "latency_install_total": 0.001831151875,
+        "latency_install_backend1": 3.2714999999999999e-6,
+        "latency_install_backend2": 0.00063412787500000004,
+        "latency_remove_total": 0.0148471425,
+        "latency_remove_backend1": 3.7031250000000002e-6,
+        "latency_remove_backend2": 0.014408724749999999,
+        "latency_result_delivery": 0.042333206000000005,
+        "num_filter_groups": 31,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 5,
+        "num_slices": 5,
+        "epoch_start": 11757206.605770087,
+        "got_schedule": 11757206.609090323,
+        "executed_subepochs": 11757211.332338599,
+        "epoch_result_process": 11757211.400063185,
+        "executed_schedule": 11757211.448740197
+      },
+      {
+        "results": 42167,
+        "latency_install_total": 0.0015068101250000001,
+        "latency_install_backend1": 3.7982500000000004e-6,
+        "latency_install_backend2": 0.00076250487499999998,
+        "latency_remove_total": 0.014908813124999998,
+        "latency_remove_backend1": 4.014375e-6,
+        "latency_remove_backend2": 0.013956452500000001,
+        "latency_result_delivery": 0.090462183999999973,
+        "num_filter_groups": 32,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 10,
+        "num_slices": 10,
+        "epoch_start": 11757211.448843587,
+        "got_schedule": 11757211.453472031,
+        "executed_subepochs": 11757216.182027036,
+        "epoch_result_process": 11757216.326847252,
+        "executed_schedule": 11757216.430830361
+      },
+      {
+        "results": 13576,
+        "latency_install_total": 0.0039420948749999997,
+        "latency_install_backend1": 2.3024375000000001e-5,
+        "latency_install_backend2": 0.002528139875,
+        "latency_remove_total": 0.016919367750000001,
+        "latency_remove_backend1": 2.4412124999999998e-5,
+        "latency_remove_backend2": 0.015817880749999999,
+        "latency_result_delivery": 0.041799191999999999,
+        "num_filter_groups": 462,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 8,
+        "num_slices": 8,
+        "epoch_start": 11757216.431055801,
+        "got_schedule": 11757216.441649139,
+        "executed_subepochs": 11757220.910868885,
+        "epoch_result_process": 11757220.954581525,
+        "executed_schedule": 11757221.000575667
+      },
+      {
+        "results": 19563,
+        "latency_install_total": 0.0031185617500000002,
+        "latency_install_backend1": 2.89875e-6,
+        "latency_install_backend2": 0.0018142089999999998,
+        "latency_remove_total": 0.014743705999999999,
+        "latency_remove_backend1": 2.9225000000000004e-6,
+        "latency_remove_backend2": 0.014320965499999998,
+        "latency_result_delivery": 0.056331484000000008,
+        "num_filter_groups": 11,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 4,
+        "num_slices": 4,
+        "epoch_start": 11757221.000816608,
+        "got_schedule": 11757221.004046937,
+        "executed_subepochs": 11757225.744586822,
+        "epoch_result_process": 11757225.833432425,
+        "executed_schedule": 11757225.899288714
+      },
+      {
+        "results": 21486,
+        "latency_install_total": 0.0034243075000000003,
+        "latency_install_backend1": 3.3216249999999997e-6,
+        "latency_install_backend2": 0.00065855075000000008,
+        "latency_remove_total": 0.014866075749999999,
+        "latency_remove_backend1": 3.7206250000000001e-6,
+        "latency_remove_backend2": 0.014375683249999998,
+        "latency_result_delivery": 0.078399947999999983,
+        "num_filter_groups": 29,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 10,
+        "num_slices": 10,
+        "epoch_start": 11757225.899393432,
+        "got_schedule": 11757225.902319893,
+        "executed_subepochs": 11757230.55599742,
+        "epoch_result_process": 11757230.618783003,
+        "executed_schedule": 11757230.708771061
+      },
+      {
+        "results": 69526,
+        "latency_install_total": 0.0033371041250000004,
+        "latency_install_backend1": 1.8207499999999998e-5,
+        "latency_install_backend2": 0.0021824631249999999,
+        "latency_remove_total": 0.015843455249999999,
+        "latency_remove_backend1": 2.1799375000000005e-5,
+        "latency_remove_backend2": 0.014857601,
+        "latency_result_delivery": 0.14291985100000004,
+        "num_filter_groups": 363,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 15,
+        "num_slices": 15,
+        "epoch_start": 11757230.709078617,
+        "got_schedule": 11757230.722276531,
+        "executed_subepochs": 11757235.442556264,
+        "epoch_result_process": 11757235.735902037,
+        "executed_schedule": 11757235.91811219
+      },
+      {
+        "results": 1934,
+        "latency_install_total": 0.0017153370000000002,
+        "latency_install_backend1": 7.9937499999999995e-6,
+        "latency_install_backend2": 0.0011468807499999999,
+        "latency_remove_total": 0.014748961624999999,
+        "latency_remove_backend1": 8.86625e-6,
+        "latency_remove_backend2": 0.01420243125,
+        "latency_result_delivery": 0.016892268000000002,
+        "num_filter_groups": 102,
+        "num_alus": 1,
+        "schedule_type": 2,
+        "num_ops": 12,
+        "num_slices": 12,
+        "epoch_start": 11757235.918288399,
+        "got_schedule": 11757235.923085405,
+        "executed_subepochs": 11757240.698022336,
+        "epoch_result_process": 11757240.712536123,
+        "executed_schedule": 11757240.731263097
+      },
+      {
+        "results": 38853,
+        "latency_install_total": 0.0014473783749999998,
+        "latency_install_backend1": 3.650875e-6,
+        "latency_install_backend2": 0.00070660350000000005,
+        "latency_remove_total": 0.016031008374999999,
+        "latency_remove_backend1": 3.8293750000000001e-6,
+        "latency_remove_backend2": 0.015397849125,
+        "latency_result_delivery": 0.077752412999999992,
+        "num_filter_groups": 34,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 9,
+        "num_slices": 9,
+        "epoch_start": 11757240.731668998,
+        "got_schedule": 11757240.737322325,
+        "executed_subepochs": 11757245.567808265,
+        "epoch_result_process": 11757245.693895519,
+        "executed_schedule": 11757245.787642328
+      },
+      {
+        "results": 6178,
+        "latency_install_total": 0.00082108437499999994,
+        "latency_install_backend1": 2.3375000000000001e-6,
+        "latency_install_backend2": 0.00047366999999999998,
+        "latency_remove_total": 0.014912910749999999,
+        "latency_remove_backend1": 2.3406250000000001e-6,
+        "latency_remove_backend2": 0.014535564375000001,
+        "latency_result_delivery": 0.050617982999999998,
+        "num_filter_groups": 1,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 4,
+        "num_slices": 4,
+        "epoch_start": 11757245.787870707,
+        "got_schedule": 11757245.790130256,
+        "executed_subepochs": 11757250.308757816,
+        "epoch_result_process": 11757250.347152777,
+        "executed_schedule": 11757250.402553966
+      },
+      {
+        "results": 68651,
+        "latency_install_total": 0.0068591525,
+        "latency_install_backend1": 3.2180750000000005e-5,
+        "latency_install_backend2": 0.0046132567500000009,
+        "latency_remove_total": 0.01653936625,
+        "latency_remove_backend1": 4.3578249999999999e-5,
+        "latency_remove_backend2": 0.014559979000000001,
+        "latency_result_delivery": 0.11672159300000001,
+        "num_filter_groups": 1023,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 12,
+        "num_slices": 12,
+        "epoch_start": 11757250.402712921,
+        "got_schedule": 11757250.429960309,
+        "executed_subepochs": 11757255.194708779,
+        "epoch_result_process": 11757255.370067826,
+        "executed_schedule": 11757255.514569938
+      },
+      {
+        "results": 37190,
+        "latency_install_total": 0.0014486266250000003,
+        "latency_install_backend1": 2.8216249999999999e-6,
+        "latency_install_backend2": 0.00053405237500000005,
+        "latency_remove_total": 0.014814292500000003,
+        "latency_remove_backend1": 2.930625e-6,
+        "latency_remove_backend2": 0.01313968725,
+        "latency_result_delivery": 0.051265690000000003,
+        "num_filter_groups": 13,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 3,
+        "num_slices": 3,
+        "epoch_start": 11757255.514863728,
+        "got_schedule": 11757255.517671771,
+        "executed_subepochs": 11757259.959041519,
+        "epoch_result_process": 11757260.046363093,
+        "executed_schedule": 11757260.109563449
+      },
+      {
+        "results": 13312,
+        "latency_install_total": 0.0020183997500000002,
+        "latency_install_backend1": 1.1760375e-5,
+        "latency_install_backend2": 0.0010862000000000001,
+        "latency_remove_total": 0.015868061624999999,
+        "latency_remove_backend1": 1.043075e-5,
+        "latency_remove_backend2": 0.014796450249999999,
+        "latency_result_delivery": 0.038821960000000003,
+        "num_filter_groups": 143,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 3,
+        "num_slices": 3,
+        "epoch_start": 11757260.109629616,
+        "got_schedule": 11757260.112667538,
+        "executed_subepochs": 11757264.703159651,
+        "epoch_result_process": 11757264.752790609,
+        "executed_schedule": 11757264.795627115
+      },
+      {
+        "results": 18887,
+        "latency_install_total": 0.0019380668750000002,
+        "latency_install_backend1": 3.301875e-6,
+        "latency_install_backend2": 0.00067820612500000003,
+        "latency_remove_total": 0.014856779875000002,
+        "latency_remove_backend1": 3.7056250000000002e-6,
+        "latency_remove_backend2": 0.014354122374999998,
+        "latency_result_delivery": 0.059146440000000002,
+        "num_filter_groups": 29,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 7,
+        "num_slices": 7,
+        "epoch_start": 11757264.795773977,
+        "got_schedule": 11757264.80112827,
+        "executed_subepochs": 11757269.54980612,
+        "epoch_result_process": 11757269.607317774,
+        "executed_schedule": 11757269.67692716
+      },
+      {
+        "results": 6399,
+        "latency_install_total": 0.0023660490000000003,
+        "latency_install_backend1": 1.3136874999999999e-5,
+        "latency_install_backend2": 0.0016685422499999999,
+        "latency_remove_total": 0.013810263500000001,
+        "latency_remove_backend1": 2.3372750000000001e-5,
+        "latency_remove_backend2": 0.012958340375,
+        "latency_result_delivery": 0.067559309000000012,
+        "num_filter_groups": 190,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 9,
+        "num_slices": 9,
+        "epoch_start": 11757269.677173022,
+        "got_schedule": 11757269.692031741,
+        "executed_subepochs": 11757274.299022894,
+        "epoch_result_process": 11757274.332873536,
+        "executed_schedule": 11757274.40798565
+      },
+      {
+        "results": 19261,
+        "latency_install_total": 0.00080538124999999985,
+        "latency_install_backend1": 2.1931249999999999e-6,
+        "latency_install_backend2": 0.00045751412500000005,
+        "latency_remove_total": 0.014705353249999999,
+        "latency_remove_backend1": 2.21425e-6,
+        "latency_remove_backend2": 0.014348453000000001,
+        "latency_result_delivery": 0.045774387,
+        "num_filter_groups": 1,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 3,
+        "num_slices": 3,
+        "epoch_start": 11757274.408276837,
+        "got_schedule": 11757274.411078913,
+        "executed_subepochs": 11757279.142624456,
+        "epoch_result_process": 11757279.217899732,
+        "executed_schedule": 11757279.270592304
+      },
+      {
+        "results": 11068,
+        "latency_install_total": 0.001336777625,
+        "latency_install_backend1": 3.3788749999999999e-6,
+        "latency_install_backend2": 0.00065592049999999989,
+        "latency_remove_total": 0.014888234625,
+        "latency_remove_backend1": 3.6578750000000001e-6,
+        "latency_remove_backend2": 0.014434931749999999,
+        "latency_result_delivery": 0.027165372,
+        "num_filter_groups": 24,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 6,
+        "num_slices": 6,
+        "epoch_start": 11757279.270660324,
+        "got_schedule": 11757279.273409765,
+        "executed_subepochs": 11757283.90388014,
+        "epoch_result_process": 11757283.938827906,
+        "executed_schedule": 11757283.968279354
+      },
+      {
+        "results": 49447,
+        "latency_install_total": 0.0013018368750000002,
+        "latency_install_backend1": 3.235625e-6,
+        "latency_install_backend2": 0.00062246675000000005,
+        "latency_remove_total": 0.014745387250000002,
+        "latency_remove_backend1": 3.3588750000000005e-6,
+        "latency_remove_backend2": 0.013227276375000001,
+        "latency_result_delivery": 0.074487986000000006,
+        "num_filter_groups": 22,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 8,
+        "num_slices": 8,
+        "epoch_start": 11757283.968495544,
+        "got_schedule": 11757283.972683767,
+        "executed_subepochs": 11757288.788025394,
+        "epoch_result_process": 11757288.890022134,
+        "executed_schedule": 11757288.978872187
+      },
+      {
+        "results": 77627,
+        "latency_install_total": 0.0070057503750000005,
+        "latency_install_backend1": 2.3221125000000002e-5,
+        "latency_install_backend2": 0.0036491616249999998,
+        "latency_remove_total": 0.016253747374999999,
+        "latency_remove_backend1": 3.3588625000000001e-5,
+        "latency_remove_backend2": 0.014616188249999999,
+        "latency_result_delivery": 0.081487940000000009,
+        "num_filter_groups": 736,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 11,
+        "num_slices": 11,
+        "epoch_start": 11757288.979000097,
+        "got_schedule": 11757288.989205863,
+        "executed_subepochs": 11757293.606686382,
+        "epoch_result_process": 11757293.755430939,
+        "executed_schedule": 11757293.851523442
+      },
+      {
+        "results": 48126,
+        "latency_install_total": 0.0012291070000000001,
+        "latency_install_backend1": 2.8337499999999998e-6,
+        "latency_install_backend2": 0.00055911462499999998,
+        "latency_remove_total": 0.014847854875,
+        "latency_remove_backend1": 3.176875e-6,
+        "latency_remove_backend2": 0.013311617124999998,
+        "latency_result_delivery": 0.098543581999999991,
+        "num_filter_groups": 13,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 6,
+        "num_slices": 6,
+        "epoch_start": 11757293.851641137,
+        "got_schedule": 11757293.853089841,
+        "executed_subepochs": 11757298.38760367,
+        "epoch_result_process": 11757298.548385281,
+        "executed_schedule": 11757298.66777754
+      },
+      {
+        "results": 53192,
+        "latency_install_total": 0.0060667257499999998,
+        "latency_install_backend1": 3.4777375000000002e-5,
+        "latency_install_backend2": 0.0042126473749999997,
+        "latency_remove_total": 0.016799478875000003,
+        "latency_remove_backend1": 4.1020875000000004e-5,
+        "latency_remove_backend2": 0.014619533125,
+        "latency_result_delivery": 0.10523208899999997,
+        "num_filter_groups": 864,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 11,
+        "num_slices": 11,
+        "epoch_start": 11757298.667920018,
+        "got_schedule": 11757298.684997171,
+        "executed_subepochs": 11757303.17274303,
+        "epoch_result_process": 11757303.327957559,
+        "executed_schedule": 11757303.45797438
+      },
+      {
+        "results": 33853,
+        "latency_install_total": 0.001342687375,
+        "latency_install_backend1": 2.4233749999999999e-6,
+        "latency_install_backend2": 0.00049077387499999988,
+        "latency_remove_total": 0.01483231225,
+        "latency_remove_backend1": 2.8881249999999996e-6,
+        "latency_remove_backend2": 0.012795052375000001,
+        "latency_result_delivery": 0.050124979000000007,
+        "num_filter_groups": 11,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 3,
+        "num_slices": 3,
+        "epoch_start": 11757303.458208291,
+        "got_schedule": 11757303.460534245,
+        "executed_subepochs": 11757307.954817399,
+        "epoch_result_process": 11757308.029001275,
+        "executed_schedule": 11757308.088611422
+      },
+      {
+        "results": 17870,
+        "latency_install_total": 0.0034850713750000004,
+        "latency_install_backend1": 1.7753875000000001e-5,
+        "latency_install_backend2": 0.0021417089999999999,
+        "latency_remove_total": 0.016003162500000001,
+        "latency_remove_backend1": 2.2455749999999999e-5,
+        "latency_remove_backend2": 0.014890617375000002,
+        "latency_result_delivery": 0.040237422000000002,
+        "num_filter_groups": 442,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 5,
+        "num_slices": 5,
+        "epoch_start": 11757308.088723322,
+        "got_schedule": 11757308.095208934,
+        "executed_subepochs": 11757312.708112979,
+        "epoch_result_process": 11757312.752704483,
+        "executed_schedule": 11757312.797742724
+      },
+      {
+        "results": 49819,
+        "latency_install_total": 0.0012756771250000002,
+        "latency_install_backend1": 3.0276250000000001e-6,
+        "latency_install_backend2": 0.00061939612499999996,
+        "latency_remove_total": 0.015468183000000002,
+        "latency_remove_backend1": 3.3131250000000001e-6,
+        "latency_remove_backend2": 0.014455090625,
+        "latency_result_delivery": 0.10282492700000001,
+        "num_filter_groups": 20,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 7,
+        "num_slices": 7,
+        "epoch_start": 11757312.797929231,
+        "got_schedule": 11757312.801717078,
+        "executed_subepochs": 11757317.591368763,
+        "epoch_result_process": 11757317.742904764,
+        "executed_schedule": 11757317.871963495
+      },
+      {
+        "results": 23756,
+        "latency_install_total": 0.0043135851249999999,
+        "latency_install_backend1": 1.6905500000000003e-5,
+        "latency_install_backend2": 0.0025218646250000001,
+        "latency_remove_total": 0.015948609874999999,
+        "latency_remove_backend1": 2.5111874999999997e-5,
+        "latency_remove_backend2": 0.014877284625000001,
+        "latency_result_delivery": 0.054604048999999995,
+        "num_filter_groups": 460,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 8,
+        "num_slices": 8,
+        "epoch_start": 11757317.872117965,
+        "got_schedule": 11757317.881693913,
+        "executed_subepochs": 11757322.327675492,
+        "epoch_result_process": 11757322.380876141,
+        "executed_schedule": 11757322.441912454
+      },
+      {
+        "results": 19823,
+        "latency_install_total": 0.0017496604999999998,
+        "latency_install_backend1": 6.2199999999999997e-6,
+        "latency_install_backend2": 0.00070059637499999996,
+        "latency_remove_total": 0.014882991625,
+        "latency_remove_backend1": 3.8349999999999997e-6,
+        "latency_remove_backend2": 0.014433748375000001,
+        "latency_result_delivery": 0.031131831000000002,
+        "num_filter_groups": 31,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 4,
+        "num_slices": 4,
+        "epoch_start": 11757322.442178076,
+        "got_schedule": 11757322.445959723,
+        "executed_subepochs": 11757327.117501957,
+        "epoch_result_process": 11757327.166579176,
+        "executed_schedule": 11757327.201117596
+      },
+      {
+        "results": 376,
+        "latency_install_total": 0.00090324787500000001,
+        "latency_install_backend1": 4.2822499999999995e-6,
+        "latency_install_backend2": 0.00053227975000000002,
+        "latency_remove_total": 0.014982644375,
+        "latency_remove_backend1": 2.5512499999999999e-6,
+        "latency_remove_backend2": 0.014602877875,
+        "latency_result_delivery": 0.0092835230000000001,
+        "num_filter_groups": 3,
+        "num_alus": 1,
+        "schedule_type": 0,
+        "num_ops": 3,
+        "num_slices": 3,
+        "epoch_start": 11757327.201268135,
+        "got_schedule": 11757327.204209289,
+        "executed_subepochs": 11757331.898324164,
+        "epoch_result_process": 11757331.900975909,
+        "executed_schedule": 11757331.910812045
+      }
+    ]
+  }
+}

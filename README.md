@@ -14,3 +14,6 @@ Referenced from "Dynamic Scheduling of Approximate Telemetry Queries" (NSDI '22)
 
 - `example_metadata/`: A directory with example metadata as read from the `switch module` and output by `query_workload_driver.c`.
 
+# Notes
+
+Source code for our `switch module`, which contains the DynATOS scheduler is not yet publicly available. Please contact Chris (cmisa@cs.uoregon.edu) for more details.
